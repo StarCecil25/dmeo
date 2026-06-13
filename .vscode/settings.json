@@ -1,0 +1,8 @@
+{
+  "cSpell.words": ["tailwindapp"],
+  "editor.fontSize": 22,
+  "files.autoSave": "afterDelay",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Palenight (Mild Contrast)"
+}
